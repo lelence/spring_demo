@@ -1,6 +1,6 @@
 # Spring Boot Rediss Session
 
-利用 Spring-Boot Redis 共享session
+Using Spring-Boot Redis share session
 
 ## Startup
 ```bash
@@ -38,6 +38,10 @@ $ mvn spring-boot:run -Ptest2
 }
 ```
 
+## Reference
 
+https://blog.csdn.net/xjj1040249553/article/details/82658889
+
+https://www.cnblogs.com/fengli9998/p/7881331.html
 
 
